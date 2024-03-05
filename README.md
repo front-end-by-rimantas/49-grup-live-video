@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/49-grupe-live-video/
+Site published at: https://front-end-by-rimantas.github.io/49-grup-live-video/
 
 Design: [Live video](https://dribbble.com/shots/4957408-Live-video-illustration/attachments/1111394?mode=media)
 
