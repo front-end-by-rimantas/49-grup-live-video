@@ -1,0 +1,30 @@
+main.container {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.column {
+    width: 50%;
+    float: left;
+}
+
+.main-title {
+    font-size: 64px;
+    text-transform: uppercase;
+    color: black;
+    margin-bottom: 40px;
+}
+
+.description {
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+
+.btn {
+    padding: 8px 30px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+}
