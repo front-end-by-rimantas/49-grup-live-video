@@ -1,18 +1,14 @@
 .social-list {
-    float: left;
+    display: flex;
+    gap: 20px;
 }
 
 .social-list > .icon {
-    float: left;
     width: 40px;
     height: 40px;
-    margin-right: 20px;
     background-color: lightblue;
-}
-.social-list > .icon:last-child {
-    margin-right: 0;
 }
 
 .copyright {
-    float: right;
+    font-style: italic;
 }
