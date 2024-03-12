@@ -10,6 +10,19 @@ main.container {
     width: 50%;
 }
 
+.fa-close {
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    text-align: center;
+}
+
 .main-title {
     font-size: 64px;
     line-height: 48px;
@@ -29,4 +42,18 @@ main.container {
     background-color: blue;
     color: white;
     border-radius: 4px;
+}
+
+.hero {
+    position: fixed;
+    z-index: -1;
+    /* top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0; */
+    inset: 0;
+    background-image: url(../img/hero.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
