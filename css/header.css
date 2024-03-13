@@ -8,13 +8,19 @@
 }
 
 .link {
-    color: blue;
+    color: #0000ff;
     font-size: 20px;
     text-decoration: none;
 }
 .link:hover {
-    background-color: red;
+    background-color: #f00;
 }
 .link:focus {
-    background-color: green;
+    background-color: #0a0;
+}
+
+@media (max-width: 700px) {
+    .main-nav {
+        display: none;
+    }
 }
